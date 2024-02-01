@@ -3,7 +3,7 @@
 
 📊 **Junior Data Analyst | Project Manager turned Data Enthusiast**
 
-Motivated and detail-oriented, I'm a recent graduate of [Name of Data Analytics Bootcamp], eager to transition from project management to a career in data analytics.
+Motivated and detail-oriented, I'm a recent graduate of Data Analytics, eager to transition from project management to a career in data analytics.
 
 🧰 **Skills:**
 - Data Analysis
