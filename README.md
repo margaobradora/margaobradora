@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**margaobradora/margaobradora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 **Hello, I'm Marga!**
 
-Here are some ideas to get you started:
+📊 **Junior Data Analyst | Project Manager turned Data Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Motivated and detail-oriented, I'm a recent graduate of [Name of Data Analytics Bootcamp], eager to transition from project management to a career in data analytics.
+
+🧰 **Skills:**
+- Data Analysis
+- Python | SQL
+- Data Visualization
+- Statistical Analysis
+
+🛠️ **Experience:**
+Bringing strong organizational and communication skills from a project management background. My transition to data analytics is backed by hands-on projects in the bootcamp, where I tackled data cleaning, exploration, and visualization, along with applying statistical methods for hypothesis testing.
+
+
+📧 **Let's Connect!**
+Actively seeking opportunities to apply data analysis skills. Reach out for collaboration or discussions related to data analytics!
+
+📬 [marga.obradora@gmail.com] | 🔗 [https://www.linkedin.com/in/margaritaobrador/] | 🐦 [MargaObrador]..
+
 -->
