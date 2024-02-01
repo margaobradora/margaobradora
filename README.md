@@ -20,4 +20,4 @@ Actively seeking opportunities to apply data analysis skills. Reach out for coll
 
 📬 [marga.obradora@gmail.com] | 🔗 [https://www.linkedin.com/in/margaritaobrador/] | 🐦 [MargaObrador]..
 
--->
+
