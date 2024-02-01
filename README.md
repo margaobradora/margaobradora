@@ -18,6 +18,6 @@ Bringing strong organizational and communication skills from a project managemen
 📧 **Let's Connect!**
 Actively seeking opportunities to apply data analysis skills. Reach out for collaboration or discussions related to data analytics!
 
-📬 [marga.obradora@gmail.com] | 🔗 [https://www.linkedin.com/in/margaritaobrador/] | 🐦 [MargaObrador]..
+📬 [marga.obradora@gmail.com] | 🔗 [https://www.linkedin.com/in/margaritaobrador/] | 🐦 [MargaObrador]
 
 
